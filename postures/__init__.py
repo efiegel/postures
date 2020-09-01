@@ -1,1 +1,1 @@
-from .postures import create_features
+from .postures import GeometricFeatures
